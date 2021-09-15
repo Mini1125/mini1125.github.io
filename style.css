@@ -1,3 +1,10 @@
-body {
-    background-image: url(https://raw.githubusercontent.com/Mini1125/mini1125.github.io/main/404-page/img/404-background-img.png);
-}
+
+
+
+html { 
+    background: url(https://raw.githubusercontent.com/Mini1125/mini1125.github.io/main/404-page/img/404-background-img.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
