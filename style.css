@@ -1,7 +1,39 @@
 
 
 
-html { 
-    background: url(https://raw.githubusercontent.com/Mini1125/mini1125.github.io/main/404-page/img/404-background-img.png) no-repeat center center fixed; 
+h1 {
+  font-size: 200px;
+  font-family: Verdana;
+}
 
-  }
+h2 {
+  font-size: 60px;
+  font-family: Verdana;
+  color: white;
+}
+
+
+h3 {
+  font-size: 30px;
+  font-family: Verdana;
+  color: white;
+}
+
+
+body {
+  background: url("404-background-img.png") no-repeat;
+  background-size: 100% 100vh;
+}
+
+.button {
+  
+  font-family: Verdana;
+  color: white;
+  font-weight: bold;
+  background-color: #EE7290;
+  border: 8px solid white;
+  border-radius: 50px;
+  padding: 1px 40px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
