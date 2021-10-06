@@ -33,3 +33,7 @@ body {
   display: inline-block;
   font-size: 25px;
 }
+
+.button :hover {
+  color: white;
+}
