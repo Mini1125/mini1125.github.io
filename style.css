@@ -103,4 +103,5 @@ p {
   font-family: Verdana;
   color: #8DA8BD;
   font-size: 15px;
+  position: fixed;
 }
