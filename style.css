@@ -2,7 +2,6 @@ body {
   background-color: #161D23;
 }
 
-
 h1 {
   color: #9F3434;
   text-align: center;
@@ -10,21 +9,15 @@ h1 {
   font-size: 100px;
 }
 
-
 #gif {
-  height: 100px;
-  width: 100px;
 }
-
-
-
 
 #Insta {
   text-align: center;
 }
 
 .Insta button {
-  font-family: Helvetica;
+  font-family: Nikkyou Sans;
   color: #DDE1E4;
   margin: 20px;
   font-weight: Bold;
@@ -38,12 +31,16 @@ h1 {
   font-size: 25px;
 }
 
+#Insta :hover {
+  color: #9F3434;
+}
+
 #Portfolio {
   text-align: center;
 }
 
 .Portfolio button {
-  font-family: Helvetica;
+  font-family: Nikkyou Sans;
   color: #DDE1E4;
   margin: 20px;
   width: 300px;
@@ -55,15 +52,18 @@ h1 {
   padding: 10px 40px;
   display: inline-block;
   font-size: 25px;
+}
+
+#Portfolio :hover {
+  color: #9F3434;
 }
 
 #NFP {
   text-align: center;
-  margin-top; 50px
 }
 
 .NFP button {
-  font-family: Helvetica;
+  font-family: Nikkyou Sans;
   color: #DDE1E4;
   margin: 20px;
   font-weight: bold;
@@ -75,4 +75,14 @@ h1 {
   padding: 10px 40px;
   display: inline-block;
   font-size: 25px;
+}
+
+#NFP :hover {
+  color: #9F3434;
+}
+
+p {
+  font-family: Verdana;
+  color: #8DA8BD;
+  font-size: 10px;
 }
