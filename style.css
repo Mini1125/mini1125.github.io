@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Nikk;
+  src: url(NikkyouSans-B6aV.ttf);
+}
+
 body {
   background-color: #161D23;
 }
@@ -5,7 +10,7 @@ body {
 h1 {
   color: #9F3434;
   text-align: center;
-  font-family: Nikkyou Sans;
+  font-family: Nikk;
   font-size: 100px;
 }
 
@@ -24,7 +29,7 @@ h2 {
 }
 
 .Insta button {
-  font-family: Nikkyou Sans;
+  font-family: Nikk;
   color: #DDE1E4;
   margin: 20px;
   font-weight: Bold;
@@ -47,7 +52,7 @@ h2 {
 }
 
 .Portfolio button {
-  font-family: Nikkyou Sans;
+  font-family: Nikk;
   color: #DDE1E4;
   margin: 20px;
   width: 300px;
@@ -70,7 +75,7 @@ h2 {
 }
 
 .NFP button {
-  font-family: Nikkyou Sans;
+  font-family: Nikk;
   color: #DDE1E4;
   margin: 20px;
   font-weight: bold;
