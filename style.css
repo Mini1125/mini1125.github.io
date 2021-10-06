@@ -3,6 +3,11 @@
   src: url(NikkyouSans-B6aV.ttf);
 }
 
+@font-face {
+  font-family: basis;
+  src: url(basis33.regular.ttf);
+}
+
 body {
   background-color: #161D23;
 }
@@ -17,7 +22,7 @@ h1 {
 h2 {
   color: #DDE1E4;
   text-align: center;
-  font-family: Verdana;
+  font-family: basis;
   font-size: 20px;
 }
 
